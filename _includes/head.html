@@ -13,6 +13,9 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  if (window.location.pathname !== '/') {
+    window.location.href = '/';
+  }
 </script>
 
 <!-- For all browsers -->
