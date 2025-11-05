@@ -44,7 +44,7 @@ I received , CCF Outstanding Doctoral Dissertation Award in High-Performance Com
 - <u><b>Mingzhen Li</b></u>, Yi Liu, Hailong Yang\*, Zhongzhi Luan, Lin Gan, Guangwen Yang, Depei Qian. [Accelerating Sparse Cholesky Factorization on Sunway Manycore Architecture](). **TPDS 2020**. (CCF-A)
 - <u><b>Mingzhen Li</b></u>, Yi Liu, Hailong Yang\*, Zhongzhi Luan, Depei Qian. [Multi-role SpTRSV on Sunway Many-core Architecture](). **HPCC 2018**. (CCF-C)
 
-<h3 id="projects">🏛️ Projects</h3>
+<h3 id="fundings">🏛️ Fundings</h3>
 
 - China National Postdoctoral Program for Innovative Talents (BX Program)
 - National Natural Science Foundation of China (NSFC) Young Scientists Fund
