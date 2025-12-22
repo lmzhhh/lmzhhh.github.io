@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-**Assistant Professor (Postdoc)** \\
+**Associate Professor** \\
 *Institute of Computing Technology* \\
 *Chinese Academy of Sciences*
 
-I am an assistant professor (postdoc) at Insititute of Computing Technology, Chinese Academy of Sciences.
+I am an associate professor at Insititute of Computing Technology, Chinese Academy of Sciences.
 I received Ph.D degree in School of Computer Science and Engineering at Beihang University, under the supervision of [Prof. Yi Liu](https://scse.buaa.edu.cn/info/1078/2656.htm) and [Prof. Hailong Yang](https://thomas-yang.github.io/). 
 As a member of the High Performance Computer Research Center, led by [Prof. Guangming Tan](https://people.ucas.ac.cn/http:/people.ucas.ac.cn/~tgm), my research interests include high-performance computing, AI system, and AI4S (AI for Science) system.
 My recent reasearch focus on hybrid parallelism, elastic scaling, compilation optimization for efficient AI/AI4S model training and inference.
-I received , CCF Outstanding Doctoral Dissertation Award in High-Performance Computing, and ACM China Doctoral Dissertation Award in SIGHPC.
+I received CCF Outstanding Doctoral Dissertation Award in High-Performance Computing, and ACM China Doctoral Dissertation Award in SIGHPC.
 
 ---
 
