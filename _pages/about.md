@@ -23,6 +23,8 @@ I received CCF Outstanding Doctoral Dissertation Award in High-Performance Compu
 
 - <font color=538F79>{*} denotes corresponding author; {^} denotes equal contribution</font>
 
+- Yan Wang, Chang Si, Kaiming Yang, Zhipeng Zhang, Weijian Liu, Man Yuan, <u><b>Mingzhen Li*</b></u>, Yong Li, Weile Jia\*. [AdaHC: Accelerating Multi-Token Prediction with Adaptive Head Chunking with Pipeline Parallelism](). **ICML 2026**. (CCF-A)
+- Hongyu Wang^, Weijian Liu^, Hongtao Xu, Yan Wang, <u><b>Mingzhen Li*</b></u>, Weile Jia\*, Guangming Tan\*. [JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials](). **ICML 2026**. (CCF-A)
 - Weijian Liu, <u><b>Mingzhen Li*</b></u>, Guangming Tan, Weile Jia\*. [Mario: Near Zero-cost Activation Checkpointing in Pipeline Parallelism](). **PPoPP 2025**. (CCF-A)
 - Hongtao Xu, Wenting Shen, Yuanxin Wei, Ang Wang, Runfan Guo, Tianxing Wang, Yong Li, <u><b>Mingzhen Li*</b></u>, Weile Jia\*. [Skrull: Towards Efficient Long Context Fine-tuning through Dynamic Data Scheduling](). **NeurIPS 2025**. (CCF-A)
 - Xiulong Yuan^, Hongtao Xu^, Wenting Shen, Ang Wang, Xiafei Qiu, Jie Zhang, Yuqiong Liu, Bowen Yu, Junyang Lin, <u><b>Mingzhen Li</b></u>, Weile Jia, Yong Li\*, Wei Lin. [Efficient Long Context Fine-tuning with Chunk Flow](). **ICML 2025**. (CCF-A)
