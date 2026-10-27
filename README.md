@@ -17,6 +17,35 @@ See more info at https://academicpages.github.io/
 
 ## Running locally
 
+### 本项目的本地调试（macOS）
+
+首次准备环境：
+
+```bash
+brew install ruby@3.3 node
+npm install
+npm run setup
+```
+
+启动带自动刷新的网站预览：
+
+```bash
+npm run dev
+```
+
+打开 http://127.0.0.1:4000，按 `Ctrl+C` 停止。修改 Markdown、HTML、Sass 后会自动重新生成并刷新页面；修改 `_config.yml` 或 `_config_local.yml` 后需重启服务。
+
+常用命令：
+
+```bash
+npm run build                 # 检查本地构建，输出到 _site/
+npm run dev -- --drafts        # 同时预览 _drafts/ 中的草稿
+npm run dev -- --port 4001     # 更换 HTTP 端口
+npm run watch:js              # 修改 JS 源码时，在另一个终端中运行
+```
+
+脚本会优先使用 Homebrew 的 Ruby 3.3，不需要修改系统 Ruby 或 shell 配置。Ruby 依赖安装在 `vendor/bundle/`，Node 依赖安装在 `node_modules/`；这些目录和构建产物均已被 Git 忽略。本地预览通过 `_config_local.yml` 使用本地链接，线上站点继续使用 `_config.yml`。
+
 When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
 1. Clone the repository and made updates as detailed above.

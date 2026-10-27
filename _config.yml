@@ -187,6 +187,7 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - scripts/jekyll.sh
   - tmp
   - vendor
 keep_files:

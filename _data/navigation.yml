@@ -14,14 +14,17 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
+  - title: "Talks"
+    url: /#talks
+
   - title: "Publications"
     url: /#publications
 
+  - title: "Projects"
+    url: /#projects
+
   - title: "Fundings"
     url: /#fundings
-
-  # - title: "Talks"
-  #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
